@@ -1,0 +1,1 @@
+python -m src.train_gmm_hmm
